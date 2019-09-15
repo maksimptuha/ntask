@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ntask.task2.parser.JsonListParserTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-09-15T20:56:22" hostname="paranoid" time="0.027">
+  <properties/>
+  <testcase name="listParse_PathPassed_Successful" classname="com.ntask.task2.parser.JsonListParserTest" time="0.027"/>
+  <testcase name="listParse_NullPathPassed_ExceptionThrown" classname="com.ntask.task2.parser.JsonListParserTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ntask.task2.remover.ListRemoverTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-15T20:56:22" hostname="paranoid" time="0.01">
+  <properties/>
+  <testcase name="listRemove_ZeroOccurrencePassed_ExceptionThrown" classname="com.ntask.task2.remover.ListRemoverTest" time="0.001"/>
+  <testcase name="listRemove_RemoveInRow_Successful" classname="com.ntask.task2.remover.ListRemoverTest" time="0.006"/>
+  <testcase name="listRemove_RemoveNotInRow_Successful" classname="com.ntask.task2.remover.ListRemoverTest" time="0.0"/>
+  <testcase name="listRemove_NullListPassed_ExceptionThrown" classname="com.ntask.task2.remover.ListRemoverTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
