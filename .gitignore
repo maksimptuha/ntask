@@ -4,4 +4,6 @@
 *.ipr
 /.gradle
 /build/
+/task1/build/
+/task2/build/
 /out

@@ -22,7 +22,7 @@ public class ListRemover<T extends Integer> {
         element -> {
           if (result.contains(element)) {
             if (occurInRow) {
-              for (int i = 0, j = i + occurrence; j < result.size(); i++, j++) {
+              for (int i = 0, j = occurrence - 1; j < result.size(); i++, j++) {
                 boolean foundRow = true;
                 for (int k = i; k < j; k++) {
                   if (!Objects.equals(result.get(k), element)
