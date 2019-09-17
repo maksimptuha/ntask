@@ -1,5 +1,12 @@
 ## ntask
 
+### Task
+
+task 1. Please write the java code for the following task - we need to calculate height of a tree when given its root node. Please design your own classes. We don’t need tree rebalancing etc. Just the basic class(es) sufficient to represent the tree and be able to calculate the height. Feel free to make any assumptions. If you have time please provide unit test. Max time limit is 30 minutes to complete.
+Надеюсь на вашу честность относительно времени выполнения.
+
+task 2. Remove from a list numbers that duplicate 3 and more times in a row. Remove from a list numbers that duplicate 3 and more times in any order.
+
 ### Build
 
 run `./gradlew clean build`
